@@ -1,0 +1,41 @@
+.w3-sidebar{
+    width: 25%;
+}
+
+.navbar,.panel,.heading{
+    width: 75%;
+    margin-left: 320px;
+}
+
+.panel-body{
+    display: flex;
+    align-items: flex-start;
+}
+
+.name{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+
+.creation{
+    width: 75%;
+    margin-left: 340px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.w3-bar-item{
+    display: flex;
+    flex-direction: column;
+}
+
+span{
+    font-size: 20px;
+}
