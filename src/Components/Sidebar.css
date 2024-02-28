@@ -1,0 +1,29 @@
+.offcanvas-header{
+    height: 100vh; 
+    background-color: #d3d3d3; 
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 10px;
+    
+}
+
+.col-sm-3{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+.offcanvas-title{
+    letter-spacing: 10px;
+    margin-top: 6px;
+    
+}
+
+p{
+    margin-top: -10px;
+    letter-spacing: 0.5px;
+}
+
+
+

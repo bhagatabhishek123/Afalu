@@ -1,41 +1,33 @@
-.w3-sidebar{
-    width: 25%;
+.sidebar{
+    background-color: #d3d3d3;
+    height: 100vh
 }
 
-.navbar,.panel,.heading{
-    width: 75%;
-    margin-left: 320px;
+li{
+    padding: 10px;
 }
 
-.panel-body{
+.offcanvas-title{
+    font-size: 30px;
     display: flex;
     align-items: flex-start;
+    margin-top: 20px;
+    letter-spacing: px;
+
 }
 
-.name{
+.panel{
     display: flex;
-    align-items: flex-start;
-    margin-left: 20px;
-}
-
-hr{
-    border: 1px solid black;
+    align-items: start;
 }
 
 
-.creation{
-    width: 75%;
-    margin-left: 340px;
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
+.col-sm-9{
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
-.w3-bar-item{
+.offcanvas-header{
     display: flex;
     flex-direction: column;
-}
-
-span{
-    font-size: 20px;
 }
